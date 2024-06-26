@@ -54,6 +54,3 @@ deactivate
 
 Abhishek Rajput
 
----
-
-Feel free to customize this README as needed!
