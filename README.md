@@ -40,7 +40,11 @@ deactivate
 
 ## Additional Information
 
-- **Installing Packages**: Once the virtual environment is activated, you can install packages using `pip` as usual, e.g., `pip install package_name`.
+- **Installing Packages**: Once the virtual environment is activated, you can install packages using `pip` as usual, e.g., 
+
+    ```bash
+    pip install package_name
+    ```
 - **Freezing Requirements**: To freeze the installed packages into a `requirements.txt` file, use:
     ```bash
     pip freeze > requirements.txt
