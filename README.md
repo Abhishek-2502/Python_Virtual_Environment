@@ -56,5 +56,5 @@ deactivate
 
 ## Author
 
-Abhishek Rajput
+Abhishek Rajput<br>
 Palak Rajput
